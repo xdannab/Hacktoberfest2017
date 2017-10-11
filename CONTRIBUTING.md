@@ -1,3 +1,3 @@
 Guidelines
 
-1. Let's discuss an idea and coding language (I am an absolute beginner lol)
+1. Can someone clearly state all the steps for making the tic tac toe (python3) game? thx
